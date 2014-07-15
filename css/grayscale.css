@@ -32,6 +32,7 @@ p {
 
 @media(min-width:767px) {
     p {
+        font-family: 'Roboto', sans-serif;
         margin: 0 0 35px;
         font-size: 20px;
         line-height: 1.6;
@@ -169,7 +170,7 @@ a:focus {
 .btn-circle {
     width: 70px;
     height: 70px;
-    margin-top: 20%;
+    margin-top: 10%;
     padding: 7px 16px;
     border: 2px solid #fff;
     border-radius: 35px;
@@ -187,6 +188,7 @@ a:focus {
     color: #fff;
     background: rgba(255,255,255,.1);
 }
+
 
 .page-scroll .btn-circle i.animated {
     -webkit-transition-property: -webkit-transform;
