@@ -372,10 +372,19 @@ body {
 
 @media(min-device-width : 320px) and (max-device-width : 568px) { 
 
-p {
-    color:red;
+.intro {
+    display: table;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #fff;
+    background: url(../img/singapore.jpg) no-repeat bottom center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-position: center center;
 }
-
 
 
 }
