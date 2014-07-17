@@ -383,5 +383,9 @@ body {
     padding-top:40px;
 }
 
+.btn-circle {
+    display:hidden;
+}
+
 
 }
