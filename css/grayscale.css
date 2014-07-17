@@ -332,9 +332,9 @@ a:focus {
 }
 
 
-@media(min-width: 320px) and (max-width:568px){
+@media only screen and (min-device-width: 320px) and (max-device-width:568px){
     .intro{
-        background:black;
+        background:black    ;
     }
 }
 
