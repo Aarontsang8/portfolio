@@ -135,7 +135,7 @@ a:focus {
     height: auto;
     text-align: center;
     color: #fff;
-    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+    background: url(../img/singapore.jpg) no-repeat bottom center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -372,6 +372,16 @@ body {
 
 @media(min-device-width : 320px) and (max-device-width : 568px) { 
 
+
+.intro {
+    display: table;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    color: #fff;
+    background-color:white;
+    padding-top:40px;
+}
 
 
 }
