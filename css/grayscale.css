@@ -374,16 +374,12 @@ body {
 
 .intro {
     display: table;
-    max-width: 568px;
+    width:100%;
     height: auto;
     text-align: center;
     color: #fff;
-    background: url(../img/singapore.jpg) no-repeat bottom center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-    background-position: center center;
+    background-image:none;
+    background-color:white;
 }
 
 
