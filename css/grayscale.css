@@ -383,8 +383,12 @@ body {
     padding-top:40px;
 }
 
-.page-scroll {
-    display:hidden;
+.intro-body{
+    padding-bottom:50px;
+}
+
+.btn-circle{
+    display:none;
 }
 
 
