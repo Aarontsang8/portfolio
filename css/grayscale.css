@@ -315,6 +315,8 @@ a:focus {
     ul.banner-social-buttons {
         margin-top: 15px;
     }
+
+
 }
 
 @media(max-width:767px) {
@@ -326,6 +328,13 @@ a:focus {
 
     ul.banner-social-buttons>li:last-child {
         margin-bottom: 0;
+    }
+}
+
+
+@media(min-width: 320px) and (max-width:568px){
+    .intro{
+        background:black;
     }
 }
 
